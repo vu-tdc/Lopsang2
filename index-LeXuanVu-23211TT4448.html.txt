@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Test dijit programmatic layout</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   
+	<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+	
+</head>
+   <body>
+	<table style="width:100%">
+  <tr>
+    <th>Họ Và Tên</th>
+    <th>MSSV</th>
+    <th>SDT</th>
+  </tr>
+  <tr>
+    <td>Lê Xuân Vũ</td>
+    <td>23211TT4448</td>
+    <td>0837960247</td>
+  </tr>
+</table>
+   </body>
+</html>
